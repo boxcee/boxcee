@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
+  <h1>👋 Hello there!</h1>
 
-<!--
-**boxcee/boxcee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://github.com/boxcee">
+      <img
+        src="https://api.ghprofile.me/view?username=boxcee&style=flat-square&label=Profile%20Views&logo=github"
+        alt="boxcee's Profile View Count"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mosvh" target="_blank">
+      <img
+        src="https://img.shields.io/badge/linkedin-connect-blue?logo=linkedin&style=flat-square"
+        alt="boxcee's LinkedIN account"/>
+    </a>
+  </p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://github.com/boxcee">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=boxcee&show_icons=true&count_private=true&theme=react&hide_border=true"
+        alt="boxcee's GitHub stats"/>
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
