@@ -21,5 +21,13 @@
         alt="boxcee's GitHub stats"/>
     </a>
   </p>
+  
+  <p>
+    <a href="https://github.com/boxcee">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxcee"
+        alt="boxcee's GitHub stats"/>
+    </a>
+  </p>
 
 </div>
