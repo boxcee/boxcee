@@ -22,7 +22,7 @@
     </a>
   </p>
   <p>
-    <a>
+    <a href="https://github.com/boxcee">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxcee&theme=react&layout=compact&hide_border=true"
         alt="boxcee's GitHub stats"/>
