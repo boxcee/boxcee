@@ -4,7 +4,7 @@
   <p>
     <a href="https://github.com/boxcee">
       <img
-        src="https://api.ghprofile.me/view?username=boxcee&style=flat-square&label=Profile%20Views&logo=github"
+        src="https://komarev.com/ghpvc/?username=boxcee"
         alt="boxcee's Profile View Count"/>
     </a>
     <a href="https://www.linkedin.com/in/mosvh" target="_blank">
