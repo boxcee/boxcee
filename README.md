@@ -19,6 +19,10 @@
       <img
         src="https://github-readme-stats.vercel.app/api?username=boxcee&show_icons=true&count_private=true&theme=react&hide_border=true"
         alt="boxcee's GitHub stats"/>
+    </a>
+  </p>
+  <p>
+    <a>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxcee&theme=react&layout=compact&hide_border=true"
         alt="boxcee's GitHub stats"/>
