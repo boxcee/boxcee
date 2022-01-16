@@ -21,6 +21,7 @@
         alt="boxcee's GitHub stats"/>
     </a>
   </p>
+  <!--
   <p>
     <a href="https://github.com/boxcee">
       <img
@@ -31,5 +32,6 @@
         alt="boxcee's GitHub stats"/>
     </a>
   </p>
+  -->
 
 </div>
