@@ -17,6 +17,11 @@
         src="https://img.shields.io/badge/stackoverflow-profile-orange?logo=stackoverflow&style=flat-square"
         alt="boxcee's Stackoverflow account"/>
     </a>
+    <a href="https://www.codingame.com/profile/5aa5c1a45dedd41cba57ee0ee7184d7a691815" target="_blank">
+      <img
+        src="https://img.shields.io/badge/codingame-profile-yellow?logo=codingame&style=flat-square"
+        alt="boxcee's CodinGame account"/>
+    </a>
   </p>
 
   <p>
