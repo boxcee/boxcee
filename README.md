@@ -31,9 +31,10 @@
         alt="boxcee's GitHub stats"/>
     </a>
   </p>
-  
-  <div>
-    <pre style="width: 500px"><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+</div>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
@@ -48,6 +49,5 @@ CAfCeAQYFggACQUCYo7//gIbDAAhCRDvN4M45G4hnRYhBFRgsuMJ8/kZABKA
 Tu83gzjkbiGdbvcA/R9t1qr76GB8V4mV/7f18E64CYle4QyzZ0Uv72neMMOM
 AP99LKN59jvhIC8USvOsmrJEvkF3e646oxcwTYTEtLO9Dg==
 =tvN5
------END PGP PUBLIC KEY BLOCK-----</code></pre>
-  </div>
-</div>
+-----END PGP PUBLIC KEY BLOCK-----
+```
