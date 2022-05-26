@@ -33,7 +33,7 @@
   </p>
   
   <div>
-    <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+    <pre style="width: 500px"><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
