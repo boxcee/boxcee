@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>👋 Hello there!</h1>
 
   <p>
@@ -32,10 +32,8 @@
     </a>
   </p>
   
-  <div style="text-align: left; width: 500px; margin: auto">
-    <pre style="text-align: left">
-        <code>
------BEGIN PGP PUBLIC KEY BLOCK-----
+  <div>
+    <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
@@ -50,8 +48,6 @@ CAfCeAQYFggACQUCYo7//gIbDAAhCRDvN4M45G4hnRYhBFRgsuMJ8/kZABKA
 Tu83gzjkbiGdbvcA/R9t1qr76GB8V4mV/7f18E64CYle4QyzZ0Uv72neMMOM
 AP99LKN59jvhIC8USvOsmrJEvkF3e646oxcwTYTEtLO9Dg==
 =tvN5
------END PGP PUBLIC KEY BLOCK-----
-        </code>
-      </pre>
+-----END PGP PUBLIC KEY BLOCK-----</code></pre>
   </div>
 </div>
