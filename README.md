@@ -23,7 +23,11 @@
         alt="boxcee's CodinGame account"/>
     </a>
   </p>
-
+  <p>
+    <a href="https://ko-fi.com/Z8Z6U4P4C">
+      <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="kofi"/>
+    </a>
+  </p>
   <p>
     <a href="https://github.com/boxcee">
       <img
@@ -32,22 +36,3 @@
     </a>
   </p>
 </div>
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: OpenPGP.js v4.10.10
-Comment: https://openpgpjs.org
-
-xjMEYo7//hYJKwYBBAHaRw8BAQdAtzuOFAF47jE8KvepzjiZD33AzVYt1daG
-GX6Iw1MjM3TNO20uc2NobWl0enZvbmh1ZWxzdEBwcm90b24ubWUgPG0uc2No
-bWl0enZvbmh1ZWxzdEBwcm90b24ubWU+wo8EEBYKACAFAmKO//4GCwkHCAMC
-BBUICgIEFgIBAAIZAQIbAwIeAQAhCRDvN4M45G4hnRYhBFRgsuMJ8/kZABKA
-Tu83gzjkbiGd+osBAMDk2BrOMpYgvFgNQlIAz8qw5Ciy9g7hy07qQ92K8czJ
-AP4hP78bgVdZaXAH46HAn3+5jHZCYWwIR7hK8dCeWjc8C844BGKO//4SCisG
-AQQBl1UBBQEBB0Bmm442kNRRi45LkJ7JdMkvgOkdaDp87/HMtVLighlNEwMB
-CAfCeAQYFggACQUCYo7//gIbDAAhCRDvN4M45G4hnRYhBFRgsuMJ8/kZABKA
-Tu83gzjkbiGdbvcA/R9t1qr76GB8V4mV/7f18E64CYle4QyzZ0Uv72neMMOM
-AP99LKN59jvhIC8USvOsmrJEvkF3e646oxcwTYTEtLO9Dg==
-=tvN5
------END PGP PUBLIC KEY BLOCK-----
-```
