@@ -29,10 +29,20 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/boxcee">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=boxcee&show_icons=true&count_private=true&theme=react&hide_border=true"
-        alt="boxcee's GitHub stats"/>
-    </a>
+    <table width="100%">
+      <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=boxcee&show_icons=true&locale=en&theme=tokyonight" alt="Moritz's GitHub stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boxcee&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=boxcee&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+    </table>
   </p>
 </div>
