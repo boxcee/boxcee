@@ -5,7 +5,6 @@ I am a DevOps Engineer from Germany with a focus on **Backend-Systems** and **In
 ### 👷 Check out what I'm currently working on
 
 
-- [boxcee/statuspage](https://github.com/boxcee/statuspage) -  (1 year ago)
 
 ### 🔨 Latest Pull Requests I published
 
