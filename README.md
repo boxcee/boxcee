@@ -7,10 +7,6 @@ I am a DevOps Engineer from Germany with a focus on **Backend-Systems** and **In
 
 - [boxcee/statuspage](https://github.com/boxcee/statuspage) -  (1 year ago)
 
-### 🔭 Latest releases I've contributed to
-
-
-
 ### 🔨 Latest Pull Requests I published
 
 
