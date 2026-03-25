@@ -10,7 +10,7 @@ I am a DevOps Engineer from Germany with a focus on **Backend-Systems** and **In
 ### 🔨 Latest Pull Requests I published
 
 
-- [fix: Gemini turn ordering and SSE streaming parser](https://github.com/RightNow-AI/openfang/pull/723) on [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) (6 days ago)
+- [fix: Gemini turn ordering and SSE streaming parser](https://github.com/RightNow-AI/openfang/pull/723) on [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) (1 week ago)
 - [feat: add command-line argument for directory path with recursive processing](https://github.com/justanappearance/google-takeout-timestamp-fixer/pull/1) on [justanappearance/google-takeout-timestamp-fixer](https://github.com/justanappearance/google-takeout-timestamp-fixer) (2 months ago)
 - [Fix file paths for providerconfig in README](https://github.com/upbound/provider-vault/pull/115) on [upbound/provider-vault](https://github.com/upbound/provider-vault) (3 months ago)
 - [feat: add JSON body to /health and /ready endpoints](https://github.com/eqlabs/pathfinder/pull/1032) on [eqlabs/pathfinder](https://github.com/eqlabs/pathfinder) (2 years ago)
