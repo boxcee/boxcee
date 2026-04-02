@@ -5,7 +5,7 @@ I am a DevOps Engineer from Germany with a focus on **Backend-Systems** and **In
 ### 👷 Check out what I'm currently working on
 
 
-- [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) - Atlassian Forge app that receives FluxCD webhook events and creates Jira deployment records (2 weeks ago)
+- [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) - Atlassian Forge app that receives FluxCD webhook events and creates Jira deployment records (today)
 
 ### 🔨 Latest Pull Requests I published
 
