@@ -10,8 +10,8 @@ I am a DevOps Engineer from Germany with a focus on **Backend-Systems** and **In
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix: resolver crash, CI deploy, and manifest lint errors](https://github.com/boxcee/forge-flux-deployments/pull/34) on [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) (today)
 - [fix: resolve admin page crash on first load (out is not a constructor)](https://github.com/boxcee/forge-flux-deployments/pull/33) on [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) (today)
 - [fix: add FORGE_USAGE_ANALYTICS to unblock non-interactive deploy](https://github.com/boxcee/forge-flux-deployments/pull/32) on [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) (today)
 - [server: expose speculative decoding counters in Prometheus metrics](https://github.com/ggml-org/llama.cpp/pull/23328) on [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) (2 days ago)
 - [fix: Gemini turn ordering and SSE streaming parser](https://github.com/RightNow-AI/openfang/pull/723) on [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) (2 months ago)
-- [feat: add command-line argument for directory path with recursive processing](https://github.com/justanappearance/google-takeout-timestamp-fixer/pull/1) on [justanappearance/google-takeout-timestamp-fixer](https://github.com/justanappearance/google-takeout-timestamp-fixer) (4 months ago)
