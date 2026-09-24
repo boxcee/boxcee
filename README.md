@@ -25,4 +25,3 @@ I enjoy building reliable deployment pipelines, making systems observable and co
 - [fix: resolver crash, CI deploy, and manifest lint errors](https://github.com/boxcee/forge-flux-deployments/pull/34) on [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) (4 months ago)
 - [fix: resolve admin page crash on first load (out is not a constructor)](https://github.com/boxcee/forge-flux-deployments/pull/33) on [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) (4 months ago)
 - [fix: add FORGE_USAGE_ANALYTICS to unblock non-interactive deploy](https://github.com/boxcee/forge-flux-deployments/pull/32) on [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) (4 months ago)
-- [server: expose speculative decoding counters in Prometheus metrics](https://github.com/ggml-org/llama.cpp/pull/23328) on [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) (4 months ago)
