@@ -17,7 +17,7 @@ I enjoy building reliable deployment pipelines, making systems observable and co
 
 ### 🌱 Recent projects
 
-- [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) – Atlassian Forge app that receives FluxCD webhook events and creates Jira deployment records (4 months ago)
+- [boxcee/forge-flux-deployments](https://github.com/boxcee/forge-flux-deployments) – Atlassian Forge app that receives FluxCD webhook events and creates Jira deployment records (5 months ago)
 
 ### 🔨 Latest pull requests
 
